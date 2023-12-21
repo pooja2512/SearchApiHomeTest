@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApi\\apiSearch\\apiSearch\\apiSearch.csproj": {}
+    "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApiHomeTest\\apiSearch\\apiSearch.csproj": {}
   },
   "projects": {
-    "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApi\\apiSearch\\apiSearch\\apiSearch.csproj": {
+    "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApiHomeTest\\apiSearch\\apiSearch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApi\\apiSearch\\apiSearch\\apiSearch.csproj",
+        "projectUniqueName": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApiHomeTest\\apiSearch\\apiSearch.csproj",
         "projectName": "apiSearch",
-        "projectPath": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApi\\apiSearch\\apiSearch\\apiSearch.csproj",
+        "projectPath": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApiHomeTest\\apiSearch\\apiSearch.csproj",
         "packagesPath": "C:\\Users\\pooja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApi\\apiSearch\\apiSearch\\obj\\",
+        "outputPath": "C:\\Users\\pooja\\source\\repos\\project\\Demo2\\SearchApiHomeTest\\apiSearch\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
